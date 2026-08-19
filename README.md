@@ -1,6 +1,6 @@
 # CRM → Books Billing Bridge
 
-An automation service that connects **Zoho CRM** and **Zoho Books**, turning a won Deal into an invoice automatically and reconciling payment status back into CRM — demonstrating cross-product business process automation.
+An automation service that connects **Zoho CRM** and **Zoho Books**, turning a won Deal into an invoice automatically and reconciling payment status back into CRM, demonstrating cross-product business process automation.
 
 ## Overview
 
