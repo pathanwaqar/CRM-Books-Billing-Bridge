@@ -1,0 +1,8 @@
+{
+  "execution": "scheduler",
+  "type": "node",
+  "schedule": {
+    "cron_expression": "*/15 * * * *",
+    "timezone": "Asia/Kolkata"
+  }
+}

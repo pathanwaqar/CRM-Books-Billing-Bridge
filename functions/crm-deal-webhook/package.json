@@ -1,0 +1,8 @@
+{
+  "name": "crm-deal-webhook-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "zcatalyst-sdk-node": "^2.6.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "execution": "advancedio",
+  "type": "node",
+  "deployment_config": {
+    "route_config": {},
+    "runtime_env_variable_config": {}
+  }
+}

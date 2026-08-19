@@ -1,0 +1,22 @@
+{
+  "functions": [
+    {
+      "name": "crmDealWebhook",
+      "source": "functions/crm-deal-webhook",
+      "type": "advancedio",
+      "stack": "node18"
+    },
+    {
+      "name": "booksPaymentWebhook",
+      "source": "functions/books-payment-webhook",
+      "type": "advancedio",
+      "stack": "node18"
+    },
+    {
+      "name": "retryScheduler",
+      "source": "functions/retry-scheduler",
+      "type": "scheduler",
+      "stack": "node18"
+    }
+  ]
+}
